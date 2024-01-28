@@ -22,3 +22,7 @@ Think of it as building a fortress of solitude around your digital life. By unde
 
 Mobile Operating Systems have permissions list for different apps that help in managing all the permissions  
 Follow these instructions for [android](https://support.google.com/android/answer/9431959?hl=en) and iOS (https://support.apple.com/en-gb/guide/iphone/iph4f4cbd242/ios) to go to the permission tab and check them every 30 days for permissions.
+
+### other tools to know your privacy
+
+- https://amiunique.org/fingerprint
