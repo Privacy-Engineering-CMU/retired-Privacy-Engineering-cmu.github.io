@@ -16,7 +16,7 @@ Here's how to outsmart these nosy algorithms and reclaim your digital self:
 Think of it as building a fortress of solitude around your digital life. By understanding in-app tracking, you can take back your control.
 
 - Utilize privacy-friendly browsers such as  [firefox](https://www.mozilla.org/en-US/firefox/new/), [Brave](https://brave.com/), etc
-- 
+- Make use of privacy friendly VPNs like [Adguard](https://adguard.com/en/welcome.html) and [NextDNS](https://nextdns.io/).
 
 ## Permissions Hygiene:
 
