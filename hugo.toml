@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://privacy-engineering-cmu.github.io/'
 languageCode = 'en-us'
 title = 'CMU Privacy Engineering'
 theme = 'digitalgarden'
